@@ -21,7 +21,7 @@ Draws AI entities and hostile NPCs in **purple**. Same box + name + distance tre
 Draws world objects and actors you'd normally have to hunt for — item pickups, interactables, anything in the level that isn't a player or a monster. Color-coded orange, small dot marker instead of a full box so it doesn't clutter the screen.
 
 ### Proximity Alerts
-When any player or monster gets within a set distance of you, a **huge flashing red banner** fires across the top of your screen with their name and how close they are. Pulsing fade in and out, thick border, positioned so you can't miss it. Distance threshold is adjustable.
+When any monster gets within a set distance of you, a **huge flashing red banner** fires across the top of your screen with their name and how close they are. Pulsing fade in and out, thick border, positioned so you can't miss it. Distance threshold is adjustable.
 
 ### Console
 Everything is driven from an in-game console. No menus, no clicking, no overlays stealing your mouse. Type a command, get an effect. Commands use plain English with `0`/`1` for on/off so there's nothing to memorize.
